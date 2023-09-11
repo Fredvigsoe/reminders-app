@@ -7,7 +7,7 @@ import ReminderService from "./services/reminder";
 
 // const reminders: Reminder[] = [
 //   { id: 1, title: "Reminder 1" },
-//   { id: 2, title: "Reminder 2" },
+//   { id: 2, title: "Reminder 2" },s
 // ];
 
 function App() {
